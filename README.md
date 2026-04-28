@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0d1117,100:1a1a2e&height=250&section=header&text=prototype_xk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=building%20game%20engines%20from%20scratch&descAlignY=65&descSize=18&descColor=6e86ff)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0d1117,100:1a1a2e&height=220&section=header&text=prototype_xk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
 
