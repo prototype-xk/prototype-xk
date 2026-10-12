@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:0d1117,100:1a1a2e&height=220&section=header&text=prototype_xk&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=6e86ff&center=true&vCenter=true&width=600&lines=Un+seul+moteur.+Construit+from+scratch.;Mes+jeux+tournent+dessus.;Chaque+projet+fait+évoluer+le+moteur.;2D+maintenant.+3D+un+jour.)](https://git.io/typing-svg)
@@ -109,3 +111,5 @@ Build     →   pas de CMake
 </div>
 
 &nbsp;
+
+![footer](https://capsule-render.vercel.app/api?type=shark&color=0:1a1a2e,100:0d0d0d&height=150&section=footer&text=Gaming%20Campus%20·%201A%20·%202025%2F2026&fontSize=18&fontColor=888888&fontAlignY=65&desc=Discord%20%3A%20prototype_xk&descSize=14&descColor=6e86ff&descAlignY=85)
